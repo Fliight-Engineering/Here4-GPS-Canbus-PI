@@ -1,0 +1,274 @@
+Dynamic Node-ID allocator enabled
+Listening… Ctrl-C to stop
+NodeStatus: nid=124 uptime=13377s health=0 mode=0
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620159 lon=150.9144308 alt_m=5.43
+[YAML once] Fix2 from nid=124:
+timestamp: 
+  usec: 1755754352810536
+gnss_timestamp: 
+  usec: 1755754352800000
+gnss_time_standard: 2 # UTC
+num_leap_seconds: 0 # UNKNOWN
+longitude_deg_1e8: 15091443080
+latitude_deg_1e8: -3436201590
+height_ellipsoid_mm: 5430
+height_msl_mm: 5430
+ned_velocity: [0.054000, -0.069000, 0.020000]
+sats_used: 29
+status: 3 # 3D_FIX
+mode: 0 # SINGLE
+sub_mode: 0
+covariance: [43.7500, 43.7500, 79.5625, 0.8931, 0.8931, 0.8931]
+pdop: 0.0000
+ecef_position_velocity: []
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620159 lon=150.9144309 alt_m=5.40
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620158 lon=150.9144310 alt_m=5.36
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620157 lon=150.9144310 alt_m=5.36
+NodeStatus: nid=124 uptime=13378s health=0 mode=0
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620153 lon=150.9144307 alt_m=5.39
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620153 lon=150.9144307 alt_m=5.37
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620153 lon=150.9144308 alt_m=5.33
+NodeStatus: nid=124 uptime=13379s health=0 mode=0
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620153 lon=150.9144308 alt_m=5.31
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620152 lon=150.9144308 alt_m=5.28
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620157 lon=150.9144312 alt_m=5.29
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+NodeStatus: nid=124 uptime=13380s health=0 mode=0
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620157 lon=150.9144310 alt_m=5.32
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620157 lon=150.9144311 alt_m=5.32
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620162 lon=150.9144315 alt_m=5.37
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620165 lon=150.9144321 alt_m=5.33
+NodeStatus: nid=124 uptime=13381s health=0 mode=0
+DOPs: PDOP=0.00 HDOP=0.65 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+DOPs: PDOP=0.00 HDOP=0.65 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620169 lon=150.9144323 alt_m=5.39
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620175 lon=150.9144332 alt_m=5.31
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+NodeStatus: nid=124 uptime=13382s health=0 mode=0
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620175 lon=150.9144331 alt_m=5.25
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620177 lon=150.9144332 alt_m=5.24
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620183 lon=150.9144338 alt_m=5.21
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+NodeStatus: nid=124 uptime=13383s health=0 mode=0
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620186 lon=150.9144339 alt_m=5.20
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620188 lon=150.9144340 alt_m=5.23
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620190 lon=150.9144340 alt_m=5.25
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620190 lon=150.9144336 alt_m=5.30
+NodeStatus: nid=124 uptime=13384s health=0 mode=0
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620192 lon=150.9144336 alt_m=5.37
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620194 lon=150.9144337 alt_m=5.37
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620191 lon=150.9144333 alt_m=5.40
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+NodeStatus: nid=124 uptime=13385s health=0 mode=0
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620190 lon=150.9144329 alt_m=5.48
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620191 lon=150.9144331 alt_m=5.48
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620191 lon=150.9144332 alt_m=5.47
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620190 lon=150.9144333 alt_m=5.43
+NodeStatus: nid=124 uptime=13386s health=0 mode=0
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620191 lon=150.9144330 alt_m=5.48
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620189 lon=150.9144330 alt_m=5.45
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+NodeStatus: nid=124 uptime=13387s health=0 mode=0
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620188 lon=150.9144332 alt_m=5.40
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620188 lon=150.9144334 alt_m=5.36
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620188 lon=150.9144334 alt_m=5.32
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620187 lon=150.9144337 alt_m=5.23
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620186 lon=150.9144337 alt_m=5.23
+NodeStatus: nid=124 uptime=13388s health=0 mode=0
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620183 lon=150.9144338 alt_m=5.15
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620179 lon=150.9144335 alt_m=5.15
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+NodeStatus: nid=124 uptime=13389s health=0 mode=0
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620179 lon=150.9144337 alt_m=5.11
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620179 lon=150.9144338 alt_m=5.04
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620177 lon=150.9144339 alt_m=5.01
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620178 lon=150.9144341 alt_m=5.02
+NodeStatus: nid=124 uptime=13390s health=0 mode=0
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620178 lon=150.9144342 alt_m=5.01
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620179 lon=150.9144342 alt_m=5.02
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620178 lon=150.9144344 alt_m=4.99
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+NodeStatus: nid=124 uptime=13391s health=0 mode=0
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620176 lon=150.9144342 alt_m=5.02
+DOPs: PDOP=0.00 HDOP=0.62 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620178 lon=150.9144344 alt_m=4.98
+DOPs: PDOP=0.00 HDOP=0.60 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+DOPs: PDOP=0.00 HDOP=0.60 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620175 lon=150.9144343 alt_m=4.99
+DOPs: PDOP=0.00 HDOP=0.60 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620175 lon=150.9144343 alt_m=4.99
+NodeStatus: nid=124 uptime=13392s health=0 mode=0
+DOPs: PDOP=0.00 HDOP=0.60 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+DOPs: PDOP=0.00 HDOP=0.58 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620171 lon=150.9144340 alt_m=4.98
+DOPs: PDOP=0.00 HDOP=0.58 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+DOPs: PDOP=0.00 HDOP=0.58 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620171 lon=150.9144344 alt_m=4.93
+DOPs: PDOP=0.00 HDOP=0.64 VDOP=1.08 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620172 lon=150.9144347 alt_m=4.92
+NodeStatus: nid=124 uptime=13393s health=0 mode=0
+DOPs: PDOP=0.00 HDOP=0.64 VDOP=1.08 GDOP=0.00  sats used/vis: 0/0
+DOPs: PDOP=0.00 HDOP=0.64 VDOP=1.08 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620170 lon=150.9144348 alt_m=4.89
+DOPs: PDOP=0.00 HDOP=0.64 VDOP=1.08 GDOP=0.00  sats used/vis: 0/0
+DOPs: PDOP=0.00 HDOP=0.64 VDOP=1.08 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620171 lon=150.9144354 alt_m=4.84
+DOPs: PDOP=0.00 HDOP=0.64 VDOP=1.08 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620172 lon=150.9144357 alt_m=4.80
+NodeStatus: nid=124 uptime=13394s health=0 mode=0
+DOPs: PDOP=0.00 HDOP=0.64 VDOP=1.08 GDOP=0.00  sats used/vis: 0/0
+DOPs: PDOP=0.00 HDOP=0.74 VDOP=1.12 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620175 lon=150.9144361 alt_m=4.87
+DOPs: PDOP=0.00 HDOP=0.64 VDOP=1.08 GDOP=0.00  sats used/vis: 0/0
+DOPs: PDOP=0.00 HDOP=0.58 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620177 lon=150.9144364 alt_m=4.90
+DOPs: PDOP=0.00 HDOP=0.58 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620177 lon=150.9144364 alt_m=4.91
+NodeStatus: nid=124 uptime=13395s health=0 mode=0
+DOPs: PDOP=0.00 HDOP=0.58 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620178 lon=150.9144362 alt_m=4.96
+DOPs: PDOP=0.00 HDOP=0.58 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620179 lon=150.9144363 alt_m=4.93
+DOPs: PDOP=0.00 HDOP=0.58 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+DOPs: PDOP=0.00 HDOP=0.58 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620180 lon=150.9144366 alt_m=4.93
+DOPs: PDOP=0.00 HDOP=0.58 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620179 lon=150.9144367 alt_m=4.90
+NodeStatus: nid=124 uptime=13396s health=0 mode=0
+DOPs: PDOP=0.00 HDOP=0.58 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+DOPs: PDOP=0.00 HDOP=0.58 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620177 lon=150.9144364 alt_m=4.93
+DOPs: PDOP=0.00 HDOP=0.58 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+DOPs: PDOP=0.00 HDOP=0.58 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620176 lon=150.9144366 alt_m=5.00
+DOPs: PDOP=0.00 HDOP=0.58 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620174 lon=150.9144368 alt_m=4.95
+NodeStatus: nid=124 uptime=13397s health=0 mode=0
+DOPs: PDOP=0.00 HDOP=0.58 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+DOPs: PDOP=0.00 HDOP=0.61 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620172 lon=150.9144365 alt_m=5.00
+DOPs: PDOP=0.00 HDOP=0.60 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+DOPs: PDOP=0.00 HDOP=0.60 VDOP=0.94 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620172 lon=150.9144367 alt_m=4.98
+DOPs: PDOP=0.00 HDOP=0.65 VDOP=1.09 GDOP=0.00  sats used/vis: 0/0
+NodeStatus: nid=124 uptime=13398s health=0 mode=0
+DOPs: PDOP=0.00 HDOP=0.65 VDOP=1.09 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620172 lon=150.9144368 alt_m=5.03
+DOPs: PDOP=0.00 HDOP=0.65 VDOP=1.09 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620173 lon=150.9144372 alt_m=4.99
+DOPs: PDOP=0.00 HDOP=0.65 VDOP=1.09 GDOP=0.00  sats used/vis: 0/0
+DOPs: PDOP=0.00 HDOP=0.65 VDOP=1.09 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620178 lon=150.9144379 alt_m=5.02
+DOPs: PDOP=0.00 HDOP=0.65 VDOP=1.09 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620180 lon=150.9144382 alt_m=5.02
+NodeStatus: nid=124 uptime=13399s health=0 mode=0
+DOPs: PDOP=0.00 HDOP=0.65 VDOP=1.09 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620180 lon=150.9144382 alt_m=5.00
+DOPs: PDOP=0.00 HDOP=0.65 VDOP=1.14 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620180 lon=150.9144383 alt_m=5.03
+DOPs: PDOP=0.00 HDOP=0.65 VDOP=1.14 GDOP=0.00  sats used/vis: 0/0
+DOPs: PDOP=0.00 HDOP=0.65 VDOP=1.14 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620182 lon=150.9144387 alt_m=5.00
+DOPs: PDOP=0.00 HDOP=0.70 VDOP=1.16 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620181 lon=150.9144386 alt_m=5.00
+NodeStatus: nid=124 uptime=13400s health=0 mode=0
+DOPs: PDOP=0.00 HDOP=0.70 VDOP=1.11 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620179 lon=150.9144384 alt_m=5.02
+DOPs: PDOP=0.00 HDOP=0.76 VDOP=1.17 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620179 lon=150.9144383 alt_m=5.05
+DOPs: PDOP=0.00 HDOP=0.76 VDOP=1.17 GDOP=0.00  sats used/vis: 0/0
+DOPs: PDOP=0.00 HDOP=0.76 VDOP=1.17 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620176 lon=150.9144380 alt_m=5.02
+DOPs: PDOP=0.00 HDOP=0.65 VDOP=1.09 GDOP=0.00  sats used/vis: 0/0
+NodeStatus: nid=124 uptime=13401s health=0 mode=0
+DOPs: PDOP=0.00 HDOP=0.65 VDOP=1.04 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620172 lon=150.9144380 alt_m=4.95
+DOPs: PDOP=0.00 HDOP=0.65 VDOP=1.08 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620172 lon=150.9144380 alt_m=4.94
+DOPs: PDOP=0.00 HDOP=0.65 VDOP=1.08 GDOP=0.00  sats used/vis: 0/0
+DOPs: PDOP=0.00 HDOP=0.64 VDOP=1.07 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620172 lon=150.9144381 alt_m=4.96
+DOPs: PDOP=0.00 HDOP=0.64 VDOP=1.07 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620170 lon=150.9144380 alt_m=4.95
+NodeStatus: nid=124 uptime=13402s health=0 mode=0
+DOPs: PDOP=0.00 HDOP=0.64 VDOP=1.13 GDOP=0.00  sats used/vis: 0/0
+DOPs: PDOP=0.00 HDOP=0.64 VDOP=1.07 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620165 lon=150.9144378 alt_m=4.93
+DOPs: PDOP=0.00 HDOP=0.64 VDOP=1.07 GDOP=0.00  sats used/vis: 0/0
+DOPs: PDOP=0.00 HDOP=0.64 VDOP=1.07 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620164 lon=150.9144378 alt_m=4.88
+DOPs: PDOP=0.00 HDOP=0.64 VDOP=1.07 GDOP=0.00  sats used/vis: 0/0
+NodeStatus: nid=124 uptime=13403s health=0 mode=0
+DOPs: PDOP=0.00 HDOP=0.65 VDOP=1.08 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620164 lon=150.9144376 alt_m=4.89
+DOPs: PDOP=0.00 HDOP=0.70 VDOP=1.10 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620165 lon=150.9144377 alt_m=4.88
+DOPs: PDOP=0.00 HDOP=0.65 VDOP=1.08 GDOP=0.00  sats used/vis: 0/0
+DOPs: PDOP=0.00 HDOP=0.65 VDOP=1.08 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620165 lon=150.9144378 alt_m=4.86
+DOPs: PDOP=0.00 HDOP=0.65 VDOP=1.08 GDOP=0.00  sats used/vis: 0/0
+NodeStatus: nid=124 uptime=13404s health=0 mode=0
+DOPs: PDOP=0.00 HDOP=0.65 VDOP=1.08 GDOP=0.00  sats used/vis: 0/0
+GNSS[Fix2]: lat=-34.3620167 lon=150.9144377 alt_m=4.89
